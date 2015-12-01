@@ -47,6 +47,7 @@
 		63EC36BD1C0E1E1000724221 /* SemanaCuatroVelocimetroMBVUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SemanaCuatroVelocimetroMBVUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63EC36C11C0E1E1000724221 /* SemanaCuatroVelocimetroMBVUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SemanaCuatroVelocimetroMBVUITests.swift; sourceTree = "<group>"; };
 		63EC36C31C0E1E1000724221 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63EC36CF1C0E1E5200724221 /* SemanaCuatroVelocimetroMBV.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SemanaCuatroVelocimetroMBV.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		63EC36951C0E1E1000724221 = {
 			isa = PBXGroup;
 			children = (
+				63EC36CF1C0E1E5200724221 /* SemanaCuatroVelocimetroMBV.playground */,
 				63EC36A01C0E1E1000724221 /* SemanaCuatroVelocimetroMBV */,
 				63EC36B51C0E1E1000724221 /* SemanaCuatroVelocimetroMBVTests */,
 				63EC36C01C0E1E1000724221 /* SemanaCuatroVelocimetroMBVUITests */,
